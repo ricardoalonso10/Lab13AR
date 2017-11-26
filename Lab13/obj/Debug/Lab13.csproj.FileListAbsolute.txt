@@ -1,0 +1,139 @@
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\csc.exe
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\vbc.exe
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\VBCSCompiler.exe
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Lab13.dll.config
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Lab13.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Lab13.pdb
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Antlr3.Runtime.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\EntityFramework.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\EntityFramework.SqlServer.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Newtonsoft.Json.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Owin.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Helpers.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Mvc.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Optimization.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Razor.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Razor.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\WebGrease.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Helpers.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Mvc.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Optimization.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.Razor.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Razor.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Antlr3.Runtime.pdb
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Newtonsoft.Json.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\EntityFramework.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\EntityFramework.SqlServer.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\obj\Debug\Lab13.dll
+C:\Users\MagnusPC\Documents\Visual Studio 2015\Projects\Laboratorio13\Lab13\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\csc.exe
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\vbc.exe
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\VBCSCompiler.exe
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Lab13.dll.config
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Lab13.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Lab13.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Antlr3.Runtime.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\EntityFramework.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\EntityFramework.SqlServer.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Newtonsoft.Json.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Owin.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Helpers.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Mvc.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Optimization.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Razor.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Razor.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\WebGrease.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Helpers.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Mvc.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Optimization.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.Razor.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\System.Web.WebPages.Razor.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Antlr3.Runtime.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Newtonsoft.Json.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\EntityFramework.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\EntityFramework.SqlServer.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\obj\Debug\Lab13.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab13\Lab13\Lab13\obj\Debug\Lab13.pdb

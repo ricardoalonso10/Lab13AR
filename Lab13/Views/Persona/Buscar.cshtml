@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Buscar";
+}
+
+<h2>Buscar persona</h2>
+
+@using (Html.BeginForm("Resultado", "Persona", FormMethod.Post))
+{
+    @Html.ValidationSummary(true);
+
+    @:Ingresar Nombre o Apellido : @Html.TextBox("nombre")
+
+
+    <input type="submit" value="Buscar" />
+
+    <br />
+
+    <h4>@ViewData["Mensaje"]</h4>
+
+}
